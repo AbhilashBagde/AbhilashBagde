@@ -31,9 +31,15 @@
 I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**. I build **analytics stacks** that turn raw data into **fast, reliable insights** — from **dbt + Snowflake** models to **Tableau/QuickSight dashboards**. I love clean data models, expressive metrics, and experiments that move ROI.
 
 #### 🔭 What I'm working on
-- A **dbt + Snowflake** project with tests, sources, and docs
-- A **BI portfolio** of dashboards for sales funnels, cohorts, and MMM
-- **Marketing analytics** experiments: attribution, uplift modeling, forecasting
+- Applying AI & machine learning methods from MSBA coursework to tackle real-world business problems
+
+- Exploring model optimization techniques for accuracy, scalability, and interpretability
+
+- Developing an end-to-end dbt + Snowflake pipeline with sources, tests, and documentation
+
+- Creating a BI portfolio of dashboards (sales funnels, cohort analysis, marketing mix modeling)
+
+- Conducting marketing analytics experiments: attribution modeling, uplift analysis, and demand forecasting
 
 #### 🧰 Toolbox
 `Python` · `SQL` · `Pandas` · `NumPy` · `dbt` · `Snowflake` · `AWS` · `Tableau` · `QuickSight` · `Git/GitHub` · `Jupyter`
