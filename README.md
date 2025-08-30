@@ -1,9 +1,9 @@
 <!-- Visual Profile README for Abhilash Bagde | MSBA @ UT Austin -->
 <!-- Tip: Upload your own banner (e.g., /assets/header.png) to this repo and replace the placeholder below -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/public/graphics/emojis/chart_with_upwards_trend.png" width="0" height="0">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0F766E&height=180&section=header&text=Abhilash%20Bagde&fontColor=FFFFFF&fontSize=60&desc=MSBA%20%40%20UT%20Austin%20%7C%20Business%20Intelligence%20%26%20Analytics&descAlign=50&descAlignY=75" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=200&section=header&text=Abhilash%20Bagde&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=MSBA%20@%20UT%20Austin%20|%20Business%20Intelligence%20%26%20Analytics&descAlign=50&descAlignY=70" alt="Abhilash Bagde Banner"/>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhilashbagde/">
