@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Business+Intelligence+%7C+Analytics+%7C+dbt+%7C+Snowflake+%7C+AWS;Turning+messy+marketing+data+into+decision-ready+insights;Tableau+%2F+QuickSight+dashboards+%F0%9F%93%88+%7C+Python%2C+SQL%2C+Pandas" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Business+Intelligence+%7C+Analytics+%7C+dbt+%7C+Snowflake+%7C+AWS;Turning+messy+data+into+decision-ready+insights;Tableau+%2F+QuickSight+dashboards+%F0%9F%93%88+%7C+Python%2C+SQL%2C+Pandas" alt="typing" />
 </div>
 
 <br/>
