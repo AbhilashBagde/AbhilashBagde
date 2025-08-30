@@ -106,8 +106,9 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 
 ## 🧪 Fun (but useful) widgets
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AbhilashBagde&combine_all_yearly_contributions=true&limit=5" alt="contrib" />
+  <img src="https://skillicons.dev/icons?i=python,r,aws,snowflake,tableau,postgres,git,github,vscode" />
 </p>
+
 
 <!-- Optional: Contribution snake (requires GitHub Actions setup in this repo) -->
 <!--
