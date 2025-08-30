@@ -104,7 +104,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 
 ---
 
-## 🧪 Fun (but useful) widgets
+## 🧪 Fun
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,aws,snowflake,tableau,postgres,git,github,vscode" />
 </p>
