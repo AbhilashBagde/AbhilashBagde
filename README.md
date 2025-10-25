@@ -52,10 +52,10 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
   <tr>
     <td>
       <a href="[https://github.com/AbhilashBagde/rag-chat-analyst]">
-        <img src="https://picsum.photos/seed/dbt/600/300" alt="dbt + Snowflake" />
+        <img src="https://github.com/AbhilashBagde/rag-chat-analyst" />
         <h4>RAG Chatbot</h4>
       </a>
-      <p>Source → staging → marts with tests, docs, and freshness.</p>
+      <p>PDF → RAG → Chatbot</p>
     </td>
   </tr>
   <tr>
