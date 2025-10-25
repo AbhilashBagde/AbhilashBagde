@@ -51,9 +51,9 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 <table>
   <tr>
     <td>
-      <a href="https://github.com/AbhilashBagde/_replace_dbt_repo_">
+      <a href="[https://github.com/AbhilashBagde/_replace_dbt_repo_](https://github.com/AbhilashBagde/rag-chat-analyst)">
         <img src="https://picsum.photos/seed/dbt/600/300" alt="dbt + Snowflake" />
-        <h4>Modern Analytics Stack: dbt + Snowflake</h4>
+        <h4>RAG Chatbot</h4>
       </a>
       <p>Source → staging → marts with tests, docs, and freshness.</p>
     </td>
