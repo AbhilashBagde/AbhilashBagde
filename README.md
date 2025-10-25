@@ -51,26 +51,35 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 <table>
   <tr>
     <td>
-      <a href="[https://github.com/AbhilashBagde/rag-chat-analyst]">
-        <img src="https://github.com/AbhilashBagde/rag-chat-analyst" />
+      <a href="https://github.com/AbhilashBagde/rag-chat-analyst" target="_blank" style="text-decoration: none; color: inherit;">
+        <!-- Replace preview.png with an actual screenshot from your repo (e.g. /assets/demo.png) -->
+        <img src="https://raw.githubusercontent.com/AbhilashBagde/rag-chat-analyst/main/preview.png"
+             alt="RAG Chatbot Screenshot"
+             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
         <h4>RAG Chatbot</h4>
       </a>
       <p>PDF → RAG → Chatbot</p>
     </td>
   </tr>
+
   <tr>
     <td>
-      <a href="https://github.com/AbhilashBagde/_replace_bi_repo_">
-        <img src="https://picsum.photos/seed/bi/600/300" alt="BI Portfolio" />
-        <h4>BI Portfolio • Tableau & QuickSight</h4>
+      <a href="https://github.com/AbhilashBagde/_replace_bi_repo_" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://picsum.photos/seed/bi/600/300"
+             alt="BI Portfolio"
+             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
+        <h4>BI Portfolio • Tableau &amp; QuickSight</h4>
       </a>
       <p>Sales funnel, cohort analysis, campaign dashboards.</p>
     </td>
   </tr>
+
   <tr>
     <td>
-      <a href="https://github.com/AbhilashBagde/_replace_mmm_repo_">
-        <img src="https://picsum.photos/seed/mmm/600/300" alt="Marketing Mix Modeling" />
+      <a href="https://github.com/AbhilashBagde/_replace_mmm_repo_" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://picsum.photos/seed/mmm/600/300"
+             alt="Marketing Mix Modeling"
+             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
         <h4>Marketing Mix Modeling (MMM)</h4>
       </a>
       <p>Budget allocation, channel ROI, elasticity curves.</p>
