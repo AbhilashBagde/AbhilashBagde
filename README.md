@@ -55,7 +55,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
       <a href="https://github.com/AbhilashBagde/rag-chat-analyst" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/ML2.jpg"
              alt="RAG Chatbot"
-             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
+             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
         <h4 style="margin-top: 10px;">RAG Chatbot</h4>
       </a>
       <p>PDF → RAG → Chatbot</p>
@@ -65,7 +65,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
       <a href="https://github.com/AbhilashBagde/_replace_bi_repo_" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/Machine-Learning-Basics.jpg"
              alt="BI Portfolio • Tableau & QuickSight"
-             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
+             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
         <h4 style="margin-top: 10px;">BI Portfolio • Tableau &amp; QuickSight</h4>
       </a>
       <p>Sales funnel, cohort analysis, campaign dashboards.</p>
@@ -77,7 +77,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
       <a href="https://github.com/AbhilashBagde/_replace_mmm_repo_" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/digital-marketing-ts-100598676-orig-1.webp"
              alt="Marketing Mix Modeling (MMM)"
-             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
+             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
         <h4 style="margin-top: 10px;">Marketing Mix Modeling (MMM)</h4>
       </a>
       <p>Budget allocation, channel ROI, elasticity curves.</p>
