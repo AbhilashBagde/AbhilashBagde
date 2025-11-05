@@ -1,7 +1,7 @@
 <!-- Visual Profile README for Abhilash Bagde | MSBA @ UT Austin -->
 <!-- Tip: Upload your own banner (e.g., /assets/header.png) to this repo and replace the placeholder below -->
 <p align="center">
-  <img src="./assets/banner.png"
+  <img src="./assets/banner Image Git.png"
        alt="Abhilash Bagde — Portfolio Banner"
        style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;" />
 </p>
