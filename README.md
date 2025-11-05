@@ -46,7 +46,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 #### 🧰 Toolbox
 `Python` · `SQL` · `Pandas` · `NumPy` · `dbt` · `Snowflake` · `AWS` · `Tableau` · `QuickSight` · `Git/GitHub` · `Jupyter`
 
----
+
 
 ## 🧩 Featured Projects
 <table width="100%">
@@ -60,8 +60,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
       </a>
       <p>PDF → RAG → Chatbot</p>
     </td>
-
-    <td width="50%" align="center">
+     <td width="50%" align="center">
       <a href="https://github.com/AbhilashBagde/_replace_bi_repo_" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/Machine-Learning-Basics.jpg"
              alt="BI Portfolio • Tableau & QuickSight"
@@ -85,6 +84,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
     <td width="50%" align="center">
       <div style="height: 10px;"></div>
     </td>
+    
   </tr>
 </table>
 ---
