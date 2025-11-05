@@ -1,9 +1,10 @@
 <!-- Visual Profile README for Abhilash Bagde | MSBA @ UT Austin -->
 <!-- Tip: Upload your own banner (e.g., /assets/header.png) to this repo and replace the placeholder below -->
 <p align="center">
-  <img src="Assets/Banner Image Git.png" alt="Abhilash Bagde Banner" width="100%" />
+  <img src="./assets/banner.png"
+       alt="Abhilash Bagde — Portfolio Banner"
+       style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;" />
 </p>
-
 
 
 <p align="center">
@@ -51,8 +52,8 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AbhilashBagde/rag-chat-analyst" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/AbhilashBagde/rag-chat-analyst/main/preview.png"
-             alt="RAG Chatbot Screenshot"
+        <img src="./assets/rag.jpg"
+             alt="RAG Chatbot"
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
         <h4 style="margin-top: 10px;">RAG Chatbot</h4>
       </a>
@@ -60,27 +61,27 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/AbhilashBagde/_replace_bi_repo_" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://picsum.photos/seed/bi/600/300"
-             alt="BI Portfolio"
+        <img src="./assets/bi.jpg"
+             alt="BI Portfolio • Tableau & QuickSight"
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
         <h4 style="margin-top: 10px;">BI Portfolio • Tableau &amp; QuickSight</h4>
       </a>
       <p>Sales funnel, cohort analysis, campaign dashboards.</p>
     </td>
   </tr>
-  
+
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AbhilashBagde/_replace_mmm_repo_" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://picsum.photos/seed/mmm/600/300"
-             alt="Marketing Mix Modeling"
+        <img src="./assets/mmm.webp"
+             alt="Marketing Mix Modeling (MMM)"
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" />
         <h4 style="margin-top: 10px;">Marketing Mix Modeling (MMM)</h4>
       </a>
       <p>Budget allocation, channel ROI, elasticity curves.</p>
     </td>
     <td width="50%" align="center">
-      <div style="height: 10px;"></div> 
+      <div style="height: 10px;"></div>
     </td>
   </tr>
 </table>
