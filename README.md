@@ -107,9 +107,9 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 ---
 
 ## 💼 Experience Snapshot
-- **Business Intelligence Analyst @ CS DISCO** — Quicksight/Tableau reporting; **–50%** report cycle time; led SQL → **Snowflake + dbt** migration; **–25%** ETL time.
-- **BI Analyst @ Merkle** — Processed **1M+** rows (Python/SQL); dashboards in Tableau/Datorama; **+15%** campaign success; **+10%** ROI.
-- **Marketing Executive @ VVDN** — Market research & RFPs; **+20%** traffic; **+10%** revenue impact.
+- **Data Engineer @ CS DISCO** — Quicksight/Tableau reporting; **–50%** report cycle time; led SQL → **Snowflake + dbt** migration; **–25%** ETL time.
+- **Data Analyst @ Merkle** — Processed **1M+** rows (Python/SQL); dashboards in Tableau/Datorama; **+15%** campaign success; **+10%** ROI.
+- **Marketing Executive @ VVDN** — Dashboards; Market research & RFPs; **+20%** traffic; **+10%** revenue impact.
 
 ---
 
