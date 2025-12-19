@@ -73,9 +73,9 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AbhilashBagde/_replace_mmm_repo_" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://github.com/AbhilashBagde/Medical-Claim-Predictions" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/digital-marketing-ts-100598676-orig-1.webp"
-             alt="Marketing Mix Modeling (MMM)"
+             alt="Medical Claims Prediction"
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
         <h4 style="margin-top: 10px;">Marketing Mix Modeling (MMM)</h4>
       </a>
