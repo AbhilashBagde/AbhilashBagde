@@ -93,14 +93,14 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 <div align="center">
 
 <!-- GitHub Readme Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhilashBagde&show_icons=true&hide=issues&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashBagde&layout=compact" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhilashBagde&show_icons=true&hide=issues" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashBagde&layout=compact" alt="Top languages" />
 
-<!-- Streak -->
-<img height="170" src="https://streak-stats.demolab.com?user=AbhilashBagde&date_format=j%20M%5B%20Y%5D" alt="streak" />
+<!-- GitHub Streak -->
+<img height="170" src="https://streak-stats.demolab.com?user=AbhilashBagde" alt="GitHub streak" />
 
-<!-- Trophies (flashy, optional) -->
-<img src="https://github-profile-trophy.vercel.app/?username=AbhilashBagde&theme=algolia&margin-w=8&margin-h=8&no-frame=true" alt="trophies" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=AbhilashBagde&theme=algolia&margin-w=8&margin-h=8&no-frame=true" alt="GitHub trophies" />
 
 </div>
 
