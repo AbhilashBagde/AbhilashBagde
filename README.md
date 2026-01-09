@@ -89,11 +89,17 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 
 ## 📈 GitHub Metrics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhilashBagde&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://img.shields.io/github/commits-since/AbhilashBagde/AbhilashBagde/main?label=Commits%20(2025)&style=for-the-badge&color=2ea44f" alt="Commits" />
+  
+  <img src="https://img.shields.io/github/followers/AbhilashBagde?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+  
+  <img src="https://img.shields.io/github/stars/AbhilashBagde?label=Stars%20Earned&style=for-the-badge&color=DAA520" alt="Stars" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashBagde&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbhilashBagde&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhilashBagde&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
 ---
 
