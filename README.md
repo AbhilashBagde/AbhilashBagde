@@ -89,10 +89,16 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 
 ## 📈 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhilashBagde&show_icons=true&hide=issues&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashBagde&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=AbhilashBagde)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbhilashBagde&theme=algolia&no-frame=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhilashBagde&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashBagde&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhilashBagde&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhilashBagde&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
