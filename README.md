@@ -75,7 +75,7 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AbhilashBagde/NiftyStream-DE" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="./assets/niftystream-preview.png"
+        <img src="./assets/dashboard-preview copy.png"
              alt="NiftyStream"
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
         <h4 style="margin-top: 10px;">NiftyStream-DE</h4>
