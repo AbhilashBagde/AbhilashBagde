@@ -1,12 +1,8 @@
-<!-- Visual Profile README for Abhilash Bagde | MSBA @ UT Austin -->
-<!-- Tip: Upload your own banner (e.g., /assets/header.png) to this repo and replace the placeholder below -->
 <p align="center">
-
   <img src="./assets/Banner%20Image%20Git.png"
        alt="Abhilash Bagde — Portfolio Banner"
        style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;" />
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhilashbagde/">
@@ -34,24 +30,20 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 
 #### 🔭 What I'm working on
 - Applying AI & machine learning methods from MSBA coursework to tackle real-world business problems
-
 - Exploring model optimization techniques for accuracy, scalability, and interpretability
-
 - Developing an end-to-end dbt + Snowflake pipeline with sources, tests, and documentation
-
 - Creating a BI portfolio of dashboards (sales funnels, cohort analysis, marketing mix modeling)
-
 - Conducting marketing analytics experiments: attribution modeling, uplift analysis, and demand forecasting
 
 #### 🧰 Toolbox
 `Python` · `SQL` · `Pandas` · `NumPy` · `dbt` · `Snowflake` · `AWS` · `Tableau` · `QuickSight` · `Git/GitHub` · `Jupyter`
 
-
+<br/>
 
 ## 🧩 Featured Projects
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/AbhilashBagde/rag-chat-analyst" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/ML2.jpg"
              alt="RAG Chatbot"
@@ -60,10 +52,10 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
       </a>
       <p>PDF → RAG → Chatbot</p>
     </td>
-     <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="http://public.tableau.com/app/profile/abhilash3072/viz/KPIDashboardSuperStoreData/KPI" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/Machine-Learning-Basics.jpg"
-             alt="BI Portfolio • Tableau & QuickSight"
+             alt="BI Portfolio"
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
         <h4 style="margin-top: 10px;">BI Portfolio • Tableau &amp; QuickSight</h4>
       </a>
@@ -72,21 +64,27 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
   </tr>
 
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/AbhilashBagde/Medical-Claim-Predictions" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="./assets/Machine-Learning-Basics.jpg"
              alt="Medical Claims Prediction"
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
         <h4 style="margin-top: 10px;">Medical Claims Prediction</h4>
       </a>
-      <p>Budget allocation, channel ROI, elasticity curves.</p>
+      <p>Predictive modeling for insurance claims and anomalies.</p>
     </td>
-    <td width="50%" align="center">
-      <div style="height: 10px;"></div>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AbhilashBagde/NiftyStream-DE" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="./assets/niftystream-preview.png"
+             alt="NiftyStream"
+             style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;" loading="lazy" />
+        <h4 style="margin-top: 10px;">NiftyStream-DE</h4>
+      </a>
+      <p>Real-time stock market ETL pipeline (React + FastAPI + Pandas).</p>
     </td>
-    
   </tr>
 </table>
+
 ---
 
 ## 📈 GitHub Metrics
@@ -110,12 +108,6 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
   <img src="https://skillicons.dev/icons?i=python,r,aws,snowflake,tableau,postgres,git,github,vscode" />
 </p>
 
-
-<!-- Optional: Contribution snake (requires GitHub Actions setup in this repo) -->
-<!--
-![snake gif](https://raw.githubusercontent.com/AbhilashBagde/AbhilashBagde/output/github-contribution-grid-snake.svg)
--->
-
 ---
 
 ## 📬 Connect
@@ -127,4 +119,4 @@ I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**
 
 ---
 
-<sub>Last updated: 2025-08-30. Customize images by uploading to <code>/assets/</code> in this repo and swapping the <em>picsum</em> placeholders.</sub>
+<sub>Last updated: January 2026.</sub>
