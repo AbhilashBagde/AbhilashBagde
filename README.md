@@ -26,17 +26,22 @@
 <img align="right" alt="Coder GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ### 👋 Hey, I'm Abhilash
-I'm a **Business Intelligence Analyst** and **MSBA student @ UT Austin (’26)**. I build **analytics stacks** that turn raw data into **fast, reliable insights** — from **dbt + Snowflake** models to **Tableau/QuickSight dashboards**. I love clean data models, expressive metrics, and experiments that move ROI.
+
+I'm a **Data Scientist** and **MSBA student @ UT Austin (’26)** passionate about building data-driven solutions using **machine learning, analytics, and AI**. I enjoy turning messy data into actionable insights through predictive modeling, experimentation, and scalable data workflows.
 
 #### 🔭 What I'm working on
-- Applying AI & machine learning methods from MSBA coursework to tackle real-world business problems
-- Exploring model optimization techniques for accuracy, scalability, and interpretability
-- Developing an end-to-end dbt + Snowflake pipeline with sources, tests, and documentation
-- Creating a BI portfolio of dashboards (sales funnels, cohort analysis, marketing mix modeling)
-- Conducting marketing analytics experiments: attribution modeling, uplift analysis, and demand forecasting
+
+* Building machine learning models for forecasting, classification, and optimization problems
+* Applying AI and statistical learning methods to real-world business use cases
+* Exploring model tuning, feature engineering, and explainability techniques
+* Developing end-to-end data pipelines using Python, SQL, dbt, and Snowflake
+* Working on projects involving marketing analytics, recommendation systems, and demand forecasting
+* Creating a portfolio of ML + analytics projects with interactive dashboards and business insights
 
 #### 🧰 Toolbox
-`Python` · `SQL` · `Pandas` · `NumPy` · `dbt` · `Snowflake` · `AWS` · `Tableau` · `QuickSight` · `Git/GitHub` · `Jupyter`
+
+`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `XGBoost` · `PyTorch` · `dbt` · `Snowflake` · `AWS` · `Tableau` · `Git/GitHub` · `Jupyter` · `Machine Learning` · `Statistics`
+
 
 <br/>
 
